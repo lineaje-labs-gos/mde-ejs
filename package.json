@@ -44,5 +44,8 @@
     "coverage": "istanbul cover node_modules/mocha/bin/_mocha",
     "doc": "jake doc",
     "devdoc": "jake doc[dev]"
+  },
+  "overrides": {
+    "ejs": ">=3.1.7"
   }
 }
