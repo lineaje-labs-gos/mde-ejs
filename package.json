@@ -44,5 +44,11 @@
   },
   "scripts": {
     "test": "npx jake test"
+  },
+  "overrides": {
+    "minimatch": ">=3.1.5"
+  },
+  "resolutions": {
+    "minimatch": ">=3.1.5"
   }
 }
