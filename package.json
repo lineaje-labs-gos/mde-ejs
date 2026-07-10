@@ -6,9 +6,15 @@
     "engine",
     "ejs"
   ],
-  "version": "3.1.10",
+  "version": "3.1.10-lineaje-01",
   "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "bin": {
     "ejs": "./bin/cli.js"
   },
@@ -17,7 +23,7 @@
   "unpkg": "ejs.min.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mde/ejs.git"
+    "url": "https://github.com/lineaje-labs-gos/mde-ejs"
   },
   "bugs": "https://github.com/mde/ejs/issues",
   "homepage": "https://github.com/mde/ejs",
